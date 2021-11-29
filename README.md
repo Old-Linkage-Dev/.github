@@ -12,6 +12,8 @@ There are members in this organization, being:
 - mbkotori        (@mbkotori,       新员工)
 - Ricky Lee       (@rickylsr,       法务) 
 - RazzorLeaf      (@Timothyhay,     开发)
+- Zhijun          (@MHAO213,        开发)
+- errorer         (@errorer,        开发)
 
 ## Projects
 There are several main projects developed or undergoing development.
