@@ -14,6 +14,7 @@ There are members in this organization, being:
 - RazzorLeaf      (@Timothyhay,     开发)
 - Zhijun          (@MHAO213,        开发)
 - errorer         (@errorer,        开发)
+- Cedar           (@cedarsaigyouji, 开发)
 
 ## Projects
 There are several main projects developed or undergoing development.
