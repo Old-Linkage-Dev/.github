@@ -7,7 +7,7 @@ Detailed explanation to this name can be found in [*Old-Linkage-Dev/Old-Linkage-
 This is a fixed name unless specifically noted changes made in future.
 
 #### Check for these repositories
-[![Dynascii](https://img.shields.io/badge/-Dynascii-333377?style=flat-square&logo=windowsterminal&logoColor=7777ff)](https://github.com/Tarcadia/Dynascii)
+[![Dynascii](https://img.shields.io/badge/-Dynascii-333377?style=flat-square&logo=windowsterminal&logoColor=7777ff)](https://github.com/Old-Linkage-Dev/Dynascii)
 
 #### Labels
 [![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=ffffff)]()
